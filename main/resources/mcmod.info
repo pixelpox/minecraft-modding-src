@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pixelp",
+  "name": "Pixelpox tutorial mod",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["siiii"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
